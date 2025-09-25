@@ -1,0 +1,212 @@
+# genre,mood,artist,track
+Pop,Happy,Taylor Swift,Shake It Off
+Pop,Chill,Billie Eilish,Ocean Eyes
+Pop,Romantic,Ed Sheeran,Perfect
+Pop,Party,Dua Lipa,Levitating
+Pop,Sad,Adele,Hello
+Pop,Happy,Harry Styles,As It Was
+Pop,Party,Bruno Mars,Uptown Funk
+Pop,Chill,Selena Gomez,Lose You to Love Me
+Pop,Party,Rihanna,We Found Love
+Pop,Chill,Olivia Rodrigo,drivers license
+Pop,Focus,Lorde,Royals
+Pop,Workout,Katy Perry,Roar
+Pop,Happy,Pharrell Williams,Happy
+Pop,Party,The Weeknd,Blinding Lights
+Pop,Chill,Lana Del Rey,Video Games
+Pop,Romantic,James Arthur,Say You Won't Let Go
+Pop,Focus,Sia,Chandelier
+Pop,Workout,Pitbull,Timber
+Pop,Energetic,Imagine Dragons,Believer
+Pop,Happy,Carly Rae Jepsen,Call Me Maybe
+
+Rock,Happy,Queen,Don't Stop Me Now
+Rock,Chill,Coldplay,Yellow
+Rock,Chill,Linkin Park,Numb
+Rock,Energetic,Nirvana,Smells Like Teen Spirit
+Rock,Workout,Foo Fighters,The Pretender
+Rock,Focus,Muse,Uprising
+Rock,Party,The Killers,Mr. Brightside
+Rock,Chill,Red Hot Chili Peppers,Californication
+Rock,Happy,Bon Jovi,It's My Life
+Rock,Focus,Radiohead,Karma Police
+Rock,Workout,AC/DC,Back In Black
+Rock,Energetic,Metallica,Enter Sandman
+Rock,Chill,Oasis,Wonderwall
+Rock,Romantic,John Lennon,Imagine
+Rock,Party,Arctic Monkeys,Fluorescent Adolescent
+Rock,Chill,The Cranberries,Zombie
+Rock,Focus,Dire Straits,Sultans of Swing
+Rock,Happy,The Beatles,Here Comes the Sun
+Rock,Workout,Linkin Park,Bleed It Out
+Rock,Party,Jet,Are You Gonna Be My Girl
+
+Hip-Hop,Party,Drake,God's Plan
+Hip-Hop,Workout,Eminem,Lose Yourself
+Hip-Hop,Party,Travis Scott,SICKO MODE
+Hip-Hop,Chill,Post Malone,Circles
+Hip-Hop,Energetic,Kendrick Lamar,HUMBLE.
+Hip-Hop,Chill,Childish Gambino,Redbone
+Hip-Hop,Workout,Kanye West,Stronger
+Hip-Hop,Happy,Lizzo,Good as Hell
+Hip-Hop,Party,Cardi B,I Like It
+Hip-Hop,Focus,J. Cole,No Role Modelz
+Hip-Hop,Energetic,Run-DMC,Walk This Way
+Hip-Hop,Workout,Macklemore,Can’t Hold Us
+Hip-Hop,Chill,Tyler, The Creator,See You Again
+Hip-Hop,Happy,Outkast,Hey Ya!
+Hip-Hop,Focus,Lupe Fiasco,The Show Goes On
+Hip-Hop,Party,Nicki Minaj,Super Bass
+Hip-Hop,Chill,A Tribe Called Quest,Can I Kick It?
+Hip-Hop,Workout,Missy Elliott,Work It
+Hip-Hop,Energetic,DMX,Party Up
+Hip-Hop,Chill,The Notorious B.I.G.,Juicy
+
+R&B,Party,Rihanna,Work
+R&B,Romantic,The Weeknd,Earned It
+R&B,Chill,SZA,Snooze
+R&B,Party,Bruno Mars,That's What I Like
+R&B,Chill,Khalid,Location
+R&B,Romantic,Alicia Keys,If I Ain't Got You
+R&B,Happy,Beyoncé,Love On Top
+R&B,Chill,Frank Ocean,Thinkin Bout You
+R&B,Focus,Usher,Yeah!
+R&B,Romantic,John Legend,All of Me
+R&B,Chill,Daniel Caesar,Best Part
+R&B,Happy,Mary J. Blige,Family Affair
+R&B,Party,Chris Brown,Forever
+R&B,Chill,H.E.R.,Focus
+R&B,Romantic,Toni Braxton,Un-Break My Heart
+R&B,Party,Ne-Yo,Closer
+R&B,Chill,Kehlani,Nights Like This
+R&B,Focus,The Weeknd,Die For You
+R&B,Happy,Pharrell Williams,Freedom
+R&B,Chill,Solange,Cranes in the Sky
+
+Electronic,Party,Calvin Harris,Summer
+Electronic,Party,David Guetta,Titanium
+Electronic,Workout,Avicii,Levels
+Electronic,Chill,Deadmau5,Strobe
+Electronic,Party,Marshmello,Happier
+Electronic,Focus,ODESZA,A Moment Apart
+Electronic,Workout,Swedish House Mafia,Don't You Worry Child
+Electronic,Chill,Kygo,Firestone
+Electronic,Party,Martin Garrix,Animals
+Electronic,Happy,Zedd,Clarity
+Electronic,Focus,Daft Punk,Get Lucky
+Electronic,Chill,Porter Robinson,Sea of Voices
+Electronic,Workout,The Prodigy,Firestarter
+Electronic,Party,Steve Aoki,Boneless
+Electronic,Chill,Flume,Never Be Like You
+Electronic,Focus,Skrillex,Scary Monsters and Nice Sprites
+Electronic,Workout,Alan Walker,Faded
+Electronic,Happy,Avicii,Wake Me Up
+Electronic,Party,Dimitri Vegas & Like Mike,Tremor
+Electronic,Chill,M83,Midnight City
+
+Classical,Focus,Ludovico Einaudi,Una Mattina
+Classical,Focus,Hans Zimmer,Time
+Classical,Chill,Yiruma,River Flows in You
+Classical,Romantic,Andrea Bocelli,Con te partirò
+Classical,Focus,Johann Sebastian Bach,Air on the G String
+Classical,Focus,Wolfgang Amadeus Mozart,Eine kleine Nachtmusik
+Classical,Chill,Claude Debussy,Clair de Lune
+Classical,Focus,Frédéric Chopin,Nocturne Op.9 No.2
+Classical,Chill,Erik Satie,Gymnopédie No.1
+Classical,Focus,Antonio Vivaldi,The Four Seasons: Spring
+Classical,Romantic,Ludwig van Beethoven,Für Elise
+Classical,Focus,Pyotr Ilyich Tchaikovsky,Swan Lake: Theme
+Classical,Chill,Max Richter,On the Nature of Daylight
+Classical,Focus,Philip Glass,Opening
+Classical,Chill,Einaudi,Nuvole Bianche
+Classical,Focus,Arvo Pärt,Spiegel im Spiegel
+Classical,Chill,Nils Frahm,Says
+Classical,Focus,Howard Shore,Concerning Hobbits
+Classical,Chill,Joe Hisaishi,One Summer's Day
+Classical,Focus,Ennio Morricone,The Ecstasy of Gold
+
+K-Pop,Happy,BTS,Dynamite
+K-Pop,Party,BLACKPINK,DDU-DU DDU-DU
+K-Pop,Happy,TWICE,Feel Special
+K-Pop,Party,PSY,GANGNAM STYLE
+K-Pop,Chill,Taeyeon,Fine
+K-Pop,Happy,SEVENTEEN,Very Nice
+K-Pop,Party,ITZY,WANNABE
+K-Pop,Chill,Red Velvet,Bad Boy
+K-Pop,Focus,TXT,Blue Hour
+K-Pop,Workout,NCT 127,Cherry Bomb
+K-Pop,Happy,NewJeans,Super Shy
+K-Pop,Party,LE SSERAFIM,UNFORGIVEN
+K-Pop,Chill,BLACKPINK,Stay
+K-Pop,Focus,Stray Kids,CASE 143
+K-Pop,Workout,ATEEZ,HALA HALA
+K-Pop,Happy,IVE,Love Dive
+K-Pop,Party,BigBang,Fantastic Baby
+K-Pop,Chill,Epik High,Love Love Love
+K-Pop,Focus,SHINee,View
+K-Pop,Workout,2NE1,I Am The Best
+
+Latin,Party,Bad Bunny,DAKITI
+Latin,Party,Karol G,Tusa
+Latin,Party,Shakira,Hips Don't Lie
+Latin,Party,J Balvin,Mi Gente
+Latin,Happy,Enrique Iglesias,Bailando
+Latin,Chill,Maluma,Hawái
+Latin,Focus,Camila Cabello,Havana
+Latin,Party,Daddy Yankee,Gasolina
+Latin,Workout,Ozuna,Se Preparó
+Latin,Chill,Prince Royce,Darte un Beso
+Latin,Happy,Becky G,MAMIII
+Latin,Focus,Nicky Jam,El Perdón
+Latin,Party,Don Omar,Danza Kuduro
+Latin,Workout,Farruko,PEPAS
+Latin,Chill,Juanes,A Dios le Pido
+Latin,Happy,Pedro Capó,Calma
+Latin,Focus,Marc Anthony,Vivir Mi Vida
+Latin,Party,Wisin & Yandel,Rakata
+Latin,Workout,Anitta,Envolver
+Latin,Chill,Luis Fonsi,Despacito
+
+Reggae,Chill,Bob Marley,Three Little Birds
+Reggae,Happy,Bob Marley,Could You Be Loved
+Reggae,Party,Sean Paul,Temperature
+Reggae,Chill,UB40,Red Red Wine
+Reggae,Focus,Toots & The Maytals,Pressure Drop
+Reggae,Happy,Jimmy Cliff,You Can Get It If You Really Want
+Reggae,Chill,Peter Tosh,Legalize It
+Reggae,Party,Shaggy,It Wasn't Me
+Reggae,Chill,Inner Circle,Sweat (A La La La La Long)
+Reggae,Happy,SOJA,Rest of My Life
+Reggae,Focus,Steel Pulse,Your House
+Reggae,Chill,Chronixx,Smile Jamaica
+Reggae,Party,Damian Marley,Welcome to Jamrock
+Reggae,Happy,Magic!,Rude
+Reggae,Chill,Alborosie,Herbalist
+Reggae,Focus,Groundation,Undivided
+Reggae,Happy,Protoje,Who Knows
+Reggae,Chill,Koffee,Toast
+Reggae,Party,Buju Banton,Boom Bye Bye
+Reggae,Focus,Collie Buddz,Love & Reggae
+
+House,Workout,Tiesto,The Business
+House,Party,David Guetta,Play Hard
+House,Party,Calvin Harris,One Kiss
+House,Chill,Disclosure,Latch
+House,Focus,Robin Schulz,Prayer in C
+House,Workout,Martin Garrix,Helicopter
+House,Happy,Duke Dumont,Ocean Drive
+House,Party,Avicii,The Nights
+House,Chill,Nora En Pure,Come With Me
+House,Focus,Eric Prydz,Opus
+House,Workout,Swedish House Mafia,Greyhound
+House,Party,MEDUZA,Piece Of Your Heart
+House,Happy,Joel Corry,Head & Heart
+House,Chill,Kygo,Stole the Show
+House,Focus,Deadmau5,Raise Your Weapon
+House,Workout,Don Diablo,On My Mind
+House,Party,Axwell Λ Ingrosso,Sun Is Shining
+House,Happy,Alesso,Heroes
+House,Chill,Petit Biscuit,Sunset Lover
+House,Focus,Calvin Harris,Feel So Close
+
+Electronic already covered; Trance/Dubstep/Techno also covered above.
