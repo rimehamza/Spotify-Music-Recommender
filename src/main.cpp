@@ -260,40 +260,35 @@ void recommendMusic(const string& username) {
 
 // login user
 void loginUser() {
-    string username, password;
+    string emailOrUsername, password;
 
-    cout << "\nEnter username: ";
-    getline(cin, username);
+    cout << "\nEnter email or username: ";
+    getline(cin, emailOrUsername);
 
-    // NOTE: Changed this to only check username since the prompt implies username login
-    while (!(usernameExists(username))) {
-        cout << "\nNo account found with that username.\n";
-        cout << "\nEnter username: ";
-        getline(cin, username);
+    while (!(emailExists(emailOrUsername) || usernameExists(emailOrUsername))) {
+        cout << "\nNo account found with that email/username.\n";
+        cout << "\nEnter email or username: ";
+        getline(cin, emailOrUsername);
     }
-    
     cout << "\nEnter password: ";
     getline(cin, password);
 
-    // Using a do-while loop for password retry logic
-    do {
-        if (!validCredentials(username, password)) {
-            cout << "\nWrong password. Try again: ";
-            getline(cin, password);
-        }
-    } while (!validCredentials(username, password));
+    while(!validCredentials(emailOrUsername, password)) {
+        cout << "\nWrong password.\n";
+         cout << "Try again! ";
+         getline(cin, password);
+    }
 
-
-    // If we exit the loop, credentials are valid
-    cout << "\nLogin successful!\n";
-    cout << "====================================\n";
-    cout << "         Welcome " << username << "!\n";
-    cout << "====================================\n";
-    
-    // *** NEW: Call the music recommendation function after successful login ***
-    recommendMusic(username);
+    if (validCredentials(emailOrUsername, password)) {
+        cout << "\nLogin successful!\n";
+        cout << "====================================\n";
+        cout << "         Welcome " << emailOrUsername << "!\n";
+        cout << "====================================\n";
+    }
+    // Call the music recommendation function after successful login 
+    recommendMusic(emailOrUsername);
 }
-
+    
 int main() {
     int choice;
     bool running = true;
